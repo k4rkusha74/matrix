@@ -1,0 +1,5 @@
+﻿  matrix.c
+C:\Users\vtoro\source\repos\matryxSecondTry\matryxSecondTry\matrix.c(33,11): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  test.c
+  Создание кода...
+  matryxSecondTry.vcxproj -> C:\Users\vtoro\source\repos\matryxSecondTry\x64\Debug\matryxSecondTry.exe
